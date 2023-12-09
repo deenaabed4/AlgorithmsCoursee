@@ -1,0 +1,1 @@
+I uploaded my factorial code file and used some git commands, such as add, push, and commit, and I wrote a report about these commands.[Untitled 4 (1).pdf](https://github.com/deenaabed4/AlgorithmsCoursee/files/13625052/Untitled.4.1.pdf)
